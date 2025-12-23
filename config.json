@@ -1,0 +1,205 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#1B1B1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1B1B1A",
+            "welcome-bonus-bg": "#1B1B1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0d0d0c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#303030",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D0AB3F",
+            "yellow": "#d03e5b",
+            "yellow-button": "#D0AB3F",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1B1B1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#89898b",
+            "pay-back": "#deeadf",
+            "providers-back": "#1B1B1A",
+            "faq-label": "#1B1B1A",
+            "bg-footer": "#1B1B1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#d03e5b",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Blotzheim ",
+            "title": "Casino Barrière Blotzheim : slots, roulette, blackjack, poker, shows & BlotZ’Café",
+            "description": "Découvrez le Casino Barrière Blotzheim : machines à sous, jeux électroniques, roulette et blackjack avec croupiers, poker et événements, concerts et soirées animées. Le bar‑restaurant BlotZ’Café et le programme Le Carré VIP complètent une expérience confortable et festive.",
+            "canonical": "casinosbarriere-blotzheim.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1218",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinosbarriere-blotzheim.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1219",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1220"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1221",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Blotzheim Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino Barrière Blotzheim — jeux, spectacles et bar‑restaurant au même endroit",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": "Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1222",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1223",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Grande salle de slots, machines modernes",
+                "Tables live : roulette et blackjack chaque jour",
+                "Roulette électronique pour jeu rapide",
+                "Poker : tournois et cash games",
+                "Bar‑restaurant BlotZ’Café sur place",
+                "Spectacles, concerts, soirées à thème réguliers",
+                "Programme Le Carré VIP, privilèges"
+            ],
+            "advantagesAfterText": "Le Casino Barrière Blotzheim séduit par l’équilibre entre jeux variés et divertissements. On y vit une soirée complète : jouer, dîner, boire un cocktail et profiter d’un show. L’ambiance est pensée pour accueillir autant les débutants que les habitués.\n",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino Barrière Blotzheim App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1224",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Blotzheim App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Blotzheim App",
+            "mobileIosImageTitle": "Casino Barrière Blotzheim App"
+        },
+        "games": {
+            "playNowText": "Jouer maintenant",
+            "title": "Games Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino Barrière Blotzheim",
+                "description1": "Le Casino Barrière Blotzheim se distingue par l’association de jackpots élevés et d’animations promotionnelles attractives. Il propose aussi une expérience complète sur place : jeux, restauration, spectacles et ambiance festive réunis.\n\n",
+                "items": [
+                    "Jackpots jusqu’à 200 000 €+.",
+                    "Tirages avec 50 000 €.",
+                    "Gains sur slots le jour même."
+                ],
+                "description2": "Le Casino Barrière Blotzheim est un casino moderne où l’on combine facilement jeu, détente et divertissement. Les espaces sont lumineux et confortables, pensés pour une visite agréable et fluide. On y trouve un large choix de machines à sous, de jeux électroniques et de tables traditionnelles animées par des croupiers. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1225",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Les débutants apprécient l’accueil et l’ambiance accessible, tandis que les habitués retrouvent une offre variée. Tout au long de l’année, des soirées thématiques et des animations donnent au lieu une énergie particulière. Un bar‑restaurant sur place permet de faire une pause gourmande entre deux sessions. La carte mise souvent sur des plats faciles à partager et des cocktails incontournables. Des spectacles et performances viennent enrichir l’expérience et prolonger la soirée. Le programme de fidélité apporte des avantages et des offres personnalisées. Au final, le Casino Barrière Blotzheim convient aussi bien à une sortie improvisée qu’à une soirée soigneusement planifiée."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Ambiance du Casino Barrière Blotzheim — style, rythme et émotions",
+                "description": "<p>\nLe Casino Barrière Blotzheim accueille ses visiteurs dans une esthétique contemporaine qui équilibre l’énergie de la salle de jeux et le confort des espaces de pause. Les intérieurs jouent souvent sur des contrastes élégants, une lumière douce et des détails visuels qui installent immédiatement une atmosphère de soirée. L’ambiance se veut festive plutôt que strictement feutrée, avec une sensation de mouvement et de convivialité. Cela rend le lieu agréable aussi bien pour jouer que pour se retrouver autour d’un verre.\n\n<\/p>\n<br>\n\n<p>\nLes horaires sont pensés pour les sorties du soir et les visites tardives, ce qui facilite l’organisation d’une soirée après un dîner ou un spectacle. En journée, l’expérience est plus calme et propice à une session tranquille. À mesure que la soirée avance, l’atmosphère devient plus animée et sociale. Certains jours, la fermeture peut être plus tardive, ce qui convient parfaitement aux amateurs de nuits longues.\n\n<\/p>\n<br>\n<p>\nLa restauration et les pauses gourmandes font partie intégrante de l’expérience. Le bar‑restaurant BlotZ’Café permet de souffler entre deux sessions de jeu et de partager un moment convivial. Beaucoup y voient le “point de rencontre” du casino, où l’on échange, on rit et on prolonge la soirée. Cocktails et plats accessibles s’intègrent naturellement dans un programme de sortie complet.\n\n<\/p>\n<br>\n<p>\nAu‑delà du jeu, le Casino Barrière Blotzheim mise sur des animations et une scène vivante. Au fil des saisons, des soirées à thème, concerts et spectacles viennent renforcer l’identité du lieu. Le calendrier est généralement conçu pour que l’on puisse enchaîner jeu et divertissement sans rupture. C’est un vrai plus pour ceux qui cherchent une expérience variée.\n\n<\/p>\n<br>\n<p>\nAu‑delà du jeu, le Casino Barrière Blotzheim mise sur des animations et une scène vivante. Au fil des saisons, des soirées à thème, concerts et spectacles viennent renforcer l’identité du lieu. Le calendrier est généralement conçu pour que l’on puisse enchaîner jeu et divertissement sans rupture. C’est un vrai plus pour ceux qui cherchent une expérience variée.\n\n<\/p>\n<br>\n<p>\nEnfin, l’ensemble est complété par le programme de fidélité Le Carré VIP et des offres ponctuelles. L’objectif est de rendre les visites plus avantageuses via des invitations, avantages et cadeaux liés aux événements. Jeux, restauration et divertissements créent ainsi une signature claire : un lieu pensé pour vivre une vraie soirée et y revenir avec plaisir.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et paiements au Casino Barrière Blotzheim — personnel, argent et procédures\n<\/h3>\n\n<p>\nLe personnel du Casino Barrière Blotzheim fait partie intégrante de l’expérience : équipes d’accueil, salle de jeux et caisse accompagnent les visiteurs pour garantir fluidité et respect des règles. Aux tables, les croupiers maintiennent le rythme et peuvent expliquer les bases aux débutants. Du côté des machines, on peut obtenir de l’aide sur le fonctionnement, la gestion des tickets et les réglages de mises. L’objectif est de rendre la visite claire, sûre et agréable.\n\n<\/p>\n<br>\n\n<p>\nLes langues parlées varient selon les équipes et l’affluence, mais on retrouve généralement le français, et souvent l’allemand et l’anglais à un niveau pratique pour le service. Cela facilite les questions d’accès, de jeux, de restauration et de caisse. En indiquant dès le départ votre préférence linguistique, vous gagnez du temps et évitez les malentendus. C’est un vrai confort pour un public international.\n\n<\/p>\n<br>\n<p>\nLa devise de référence est l’euro, et les consommations comme les opérations de caisse se font le plus souvent dans cette monnaie. Côté moyens de paiement, les cartes bancaires sont généralement acceptées pour la restauration et certains services, tandis que le jeu s’appuie surtout sur la caisse, l’espèce et les systèmes de tickets sur machines. Les règles peuvent différer selon les zones, ce qui rend utile d’avoir à la fois carte et un peu d’espèces. Cette flexibilité simplifie la soirée.\n\n<\/p>\n<br>\n<p>\nL’accès à des espèces est habituellement prévu via un distributeur, afin de limiter les déplacements. Un service de change peut exister de manière limitée, mais il est souvent plus simple d’anticiper. Le personnel indique volontiers l’emplacement du distributeur et les éventuelles limites. Comme toujours, l’accès aux espaces de jeu reste lié à la vérification de l’identité et de l’âge.\n\n<\/p>\n<br>\n<p>\nLe paiement des gains se fait le plus souvent à la caisse : présentation du ticket, des jetons ou du justificatif, puis règlement selon les procédures internes. Pour les montants importants, une identification renforcée et des formalités supplémentaires peuvent être demandées, ce qui relève des contrôles financiers habituels. Selon les cas, une organisation spécifique peut être mise en place pour de très gros gains. La logique reste simple : vérifier, enregistrer, payer.\n\n<\/p>\n<br>\n<p>\nLa question fiscale dépend du profil du joueur et des obligations déclaratives liées à sa situation personnelle. Le casino applique ses procédures de paiement, tandis que d’éventuelles démarches peuvent relever du joueur selon les circonstances. Pour éviter toute erreur, il est conseillé de demander les informations à l’accueil ou de se rapprocher d’un conseiller spécialisé. Cette prudence est particulièrement utile en cas de gain élevé.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino Barrière Blotzheim — accès, tenue et organisation\n<\/h3>\n\n<p>\nLa visite du Casino Barrière Blotzheim commence par le contrôle de l’âge et de l’identité : une pièce officielle est indispensable. L’accès est réservé aux majeurs et aux personnes non interdites de jeu. À l’intérieur, la courtoisie et le respect des consignes garantissent une ambiance agréable pour tous. Les photos et vidéos dans les zones de jeu sont généralement limitées pour protéger la confidentialité. Des règles spécifiques peuvent s’appliquer au tabac, souvent cantonné à des espaces dédiés. Aux tables et au poker, la discipline est importante : on ne perturbe pas les coups et on s’adresse au personnel en cas de question. En soirée, un style soigné aide à se sentir à l’aise. Lors des périodes d’affluence, des files peuvent apparaître, d’où l’intérêt d’arriver un peu en avance. Il est utile de fixer un budget et de faire des pauses pour garder le contrôle. L’accès est simple en voiture et un parking visiteurs est prévu. Le taxi ou un transfert peut aussi être pratique, surtout tard.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCode vestimentaire\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTenue propre et soignée ; les tenues trop sportives ou de plage sont souvent déconseillées.\n\n<\/li>\n            <li>• \nLe soir, un style smart casual fonctionne très bien : chaussures propres, allure soignée.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’entrée\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès 18+ avec pièce d’identité valide.\n\n<\/li>\n            <li>• \nVisiteur non interdit de jeux.\n\n<\/li>\n            <li>• \nContrôle de sécurité possible selon les règles internes.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPhotos\/vidéos dans les zones de jeu : généralement limitées.\n\n<\/li>\n            <li>• \nComportements agressifs, fraude, perturbation du jeu : strictement interdits.\n\n<\/li>\n            <li>• \nAlcool : service encadré ; refus d’entrée possible en cas d’ivresse.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking et accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nParking visiteurs généralement à proximité, adapté au flux du soir.\n\n<\/li>\n            <li>• \nAccès direct en voiture, alternatives : taxi\/transfert.\n\n<\/li>\n            <li>• \nParcours adaptés pour les personnes à mobilité réduite.\n\n<\/li>\n\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLe Carré VIP au Casino Barrière Blotzheim — fonctionnement, niveaux et avantages\n<\/h3>\n\n<p>\nLe programme Le Carré VIP au Casino Barrière Blotzheim vise à rendre les visites plus avantageuses et plus fluides, surtout pour les clients réguliers. Le principe est simple : inscription, utilisation de la carte pendant le jeu, puis accumulation de points transformables en bénéfices. Les membres reçoivent souvent un accès plus pratique, des offres personnalisées et des attentions liées aux sessions de jeu et aux événements. Le programme crée une expérience “reconnue” : invitations, opérations, avantages sur certaines périodes et service plus flexible. Pour les nouveaux visiteurs, c’est une façon d’obtenir des avantages dès les premières visites, et pour les joueurs expérimentés, un outil pour optimiser l’expérience. La carte s’utilise généralement sur machines et aux tables : scan\/insertion sur machines, présentation au croupier aux tables. Plus l’activité est régulière, plus les offres deviennent ciblées. L’un des atouts est l’accès à des soirées spéciales et des tirages réservés. Les niveaux reflètent l’engagement : plus le niveau monte, plus les privilèges s’élargissent. L’esprit “jeu responsable” reste central : on garde la maîtrise du budget. Globalement, Le Carré VIP apporte une dimension premium sans adhésion payante, car l’inscription est généralement gratuite.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n\n\n<\/h4>\n\n <ul>\n            <li>• \n0 € : inscription généralement gratuite.\n\n<\/li>\n            <li>• \nPièce d’identité + formulaire au comptoir\/accueil.\n\n<\/li>\n            <li>• \nAcceptation des règles du programme et des communications d’offres.\n\n<\/li>\n            <li>• \nCarte remise immédiatement, activation le jour même.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveaux et obtention\n<\/h4>\n\n <ul>\n            <li>• \nBlanc (Début) — dès l’inscription ; accumulation de points et offres de base.\n\n<\/li>\n            <li>• \nArgent — seuil indicatif dès 5 000 points\/activité ; bonus de gain de points plus fréquent.\n\n<\/li>\n            <li>• \nOr — seuil indicatif dès 20 000 ; invitations et offres prioritaires.\n\n<\/li>\n            <li>• \nNoir — seuil indicatif dès 60 000 ; personnalisation maximale et événements VIP.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus et privilèges\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus : 10–20 € en crédits\/points de jeu — démarrage attractif.\n\n<\/li>\n            <li>• \nAnniversaire : 20–50 € en cadeau\/crédit — souvent conditionné à une visite sur période.\n\n<\/li>\n            <li>• \nMultiplicateur x2 sur des créneaux “boost” — accélère l’accumulation.\n\n<\/li>\n            <li>• \nAvantage type cashback 5% en points — selon jours\/activités éligibles.\n\n<\/li>\n\t    <li>• \nInvitations événements — soirées privées, accès prioritaire à certains shows.\n\n<\/li>\n\t    <li>• \nCadeaux & vouchers — échange de points contre restauration\/divertissement selon catalogue.\n\n\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au   Casino Barrière Blotzheim",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres du Casino Barrière Blotzheim — promotions, gains et événements saisonniers\n<\/h3>\n\n<p>\nEn dehors du programme de fidélité, le Casino Barrière Blotzheim propose régulièrement des opérations promotionnelles qui rendent la visite plus rythmée. Il s’agit souvent de tirages, tournois, semaines thématiques et soirées spéciales liées aux saisons. Ces offres sont appréciées car elles ajoutent une chance de gain ou de cadeau sans forcément augmenter les mises. La mécanique reste généralement simple : jouer sur une période donnée, s’inscrire à l’accueil, activer une participation ou respecter une condition de créneau. Pour le visiteur, c’est un déclencheur clair : venir au bon moment, et profiter d’une valeur ajoutée. Les tirages avec dotations renforcent l’effet “événement”, en plus de la session de jeu classique. On trouve aussi des offres couplées au bar ou aux shows, comme des soirées avec formule et avantage jeu. Lors des grands événements, l’ambiance est plus festive et les opérations plus visibles. Les montants et conditions varient selon le calendrier, d’où l’intérêt de raisonner par formats typiques. Voici des exemples d’offres souvent rencontrées dans ce type d’établissement.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTirages “Grand Draw”\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDotations : 10 000–50 000 €.\n\n<\/li>\n            <li>• \nDescription : participation souvent liée à la période de jeu\/visites.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJackpots sur machines à sous\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPotentiel : jusqu’à 200 000 €+ (progressifs\/événementiels).\n\n<\/li>\n            <li>• \nDescription : jackpot alimenté par l’activité sur machines éligibles.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffres “Free Play” hors fidélité\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBonus : 5–25 € en crédits sur coupon\/créneau.\n\n<\/li>\n            <li>• \nDescription : souvent limité à certains jours ou machines.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSemaines de tournois slots\n\n\n<\/h4>\n\n <ul>\n            <li>• \nPrize pool : 1 000–10 000 €.\n\n<\/li>\n            <li>• \nDescription : classement sur points\/performances, lots aux meilleurs.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournois poker avec garantie\n\n\n<\/h4>\n\n <ul>\n            <li>• \nGarantie : 2 000–15 000 € selon format.\n\n<\/li>\n            <li>• \nDescription : tournois ponctuels ou mini‑séries, parfois en mode bounty.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nÉvénements saisonniers et “semaines festives”\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDotations : cash + cadeaux, pouvant atteindre des dizaines de milliers d’euros.\n\n<\/li>\n            <li>• \nDescription : mix jeu, show et tirages dans une même expérience.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFormules “Dinner & Play”\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAvantage : -10%…-20% sur formule ou 10–30 € en crédits de jeu.\n\n<\/li>\n            <li>• \nDescription : idéal pour une soirée complète, sans complexité.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Jeux populaires au Casino Barrière Blotzheim — les favoris des visiteurs\n<\/h3>\n\n<p>\nLe Casino Barrière Blotzheim plaît parce qu’il propose des jeux adaptés à tous les profils : rythme rapide des machines, stratégie aux tables, ou poker plus compétitif. Les machines à sous attirent par la diversité des thèmes et des mécaniques, avec des bonus rounds qui renouvellent l’expérience. Les jeux électroniques offrent vitesse et simplicité : on démarre facilement, on contrôle son rythme et on joue sans pression. Les tables live apportent une dimension sociale et une intensité particulière grâce aux croupiers. La roulette reste un grand classique, appréciée pour ses règles accessibles et son suspense. Le blackjack séduit par les choix stratégiques et la sensation de maîtrise. L’Ultimate Poker propose une variante “contre la banque” avec une dynamique de mises engageante. Le poker entre joueurs vise un public qui aime la compétition, la lecture de jeu et la discipline. En soirée, l’intérêt pour les tables et le poker augmente généralement, avec une ambiance plus animée. En journée, les slots et stations électroniques sont souvent privilégiés pour des sessions plus calmes. Pour une présentation SEO, il est pertinent de souligner le triptyque : slots, électronique et tables traditionnelles réunis. Voici les jeux les plus recherchés.\n\n<\/p>\n<br>\n\n\n\n <ul>\n            <li>• \nMachines à sous — jeu rapide, thèmes variés, bonus, mécaniques jackpot.\n\n<\/li>\n            <li>• \nRoulette anglaise (live) — roulette avec croupier, mises multiples, ambiance casino.\n\n<\/li>\n            <li>• \nRoulette électronique — plus rapide, idéale pour sessions courtes et petites mises.\n\n<\/li>\n            <li>• \nBlackjack (live) — décisions stratégiques, rythme soutenu, interaction table.\n\n<\/li>\n\t    <li>• \nBlackjack électronique — format fluide, accessible, sans attente.\n\n<\/li>\n            <li>• \nUltimate Poker — poker contre la banque, combinaisons, mises progressives.\n\n<\/li>\n\t    <li>• \nTexas Hold’em Poker — poker entre joueurs, cash games et tournois selon planning.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino Barrière Blotzheim — repères min\/max pour bien planifier\n<\/h3>\n\n<p> \nLes limites de mise au Casino Barrière Blotzheim dépendent de la table, de l’horaire et du format. Les machines à sous offrent souvent la plus grande flexibilité budgétaire, tandis que les tables suivent des paliers plus structurés. Les stations électroniques permettent généralement d’entrer avec de petites mises et un rythme rapide. Voici des repères utiles pour préparer votre budget de jeu.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#D0AB3F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise minimale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mise maximale<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € par spin<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette anglaise (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 1 000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n         <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em Cash Game<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy‑in 200 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy‑in 2 000 €<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Tournois poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy‑in 50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">buy‑in 500 €<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDivertissements et shows au Casino Barrière Blotzheim — soirées, scène et ambiance nocturne\n<\/h3>\n\n<p>\nLe Casino Barrière Blotzheim ne se limite pas au jeu : il propose une vraie expérience de sortie, où le divertissement pèse autant que la salle de jeux. L’idée est simple : on vient pour jouer, mais on reste pour l’atmosphère, la musique et les événements. Au fil des saisons, des concerts, performances et soirées thématiques alimentent une programmation variée. Ce modèle est particulièrement apprécié en groupe : certains jouent, d’autres profitent de la restauration et de la scène, puis tout le monde se retrouve dans les espaces conviviaux.\n\n<\/p>\n<br>\n\n<p>\nLes animations régulières suivent souvent le rythme des soirées et des week‑ends. DJ sets, soirées à thème et événements spéciaux créent une énergie plus “nightlife”. L’éclairage, la musique et la circulation entre bar, scène et jeux donnent une sensation de club, sans changer d’adresse. C’est pratique : dîner, show, jeu et fin de soirée se font au même endroit.\n\n<\/p>\n<br>\n<p>\nLes événements spéciaux combinent parfois plusieurs formats, comme dîner + spectacle ou spectacle + tirage promotionnel. Ces soirées apportent un effet “événement” qui dépasse la simple session de jeu. Le poker occupe aussi une place à part : les tournois créent une tension sportive et une ambiance de compétition, même pour ceux qui observent. L’ensemble construit une identité claire : un casino où le jeu s’accompagne de scène et de vie nocturne.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nListe des divertissements\n<\/h4>\n\n <ul>\n            <li>• \nConcerts & artistes — live, format soirée, programmation saisonnière.\n\n<\/li>\n            <li>• \nShows — spectacles scénarisés, forte dimension émotionnelle.\n\n<\/li>\n            <li>• \nSoirées DJ — ambiance dansante, souvent le week‑end.\n\n<\/li>\n            <li>• \nSoirées à thème — concepts saisonniers, dress‑codes, scénarios spéciaux.\n\n<\/li>\n\t    <li>• \nTournois poker — compétition, atmosphère sportive, prize pools.\n\n<\/li>\n\t    <li>• \nÉvénements & promos jeux — tirages, activations jackpots, tournois slots.\n\n<\/li>\n\t    <li>• \nSoirées “Dinner & Show” — dîner puis spectacle, parfois avec avantage jeu.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDétente au Casino Barrière Blotzheim — bar, restaurant et pauses confortables\n<\/h3>\n\n<p>\nLa détente au Casino Barrière Blotzheim repose sur l’idée d’une pause sans quitter l’ambiance. Même si l’objectif principal est le jeu, il est agréable de pouvoir dîner, boire un cocktail ou simplement souffler au même endroit. Le bar‑restaurant BlotZ’Café joue le rôle de point central : idéal pour se retrouver, discuter et revenir aux jeux quand on le souhaite. Ce rythme alterné plaît à ceux qui veulent une soirée confortable, sans excès.\n\n<\/p>\n<br>\n\n<p>\nLa carte et les boissons sont généralement pensées pour la soirée : plats accessibles, faciles à partager, et cocktails classiques qui s’accordent à l’atmosphère. Un autre atout est la possibilité de construire une soirée “jeu + show” : dîner, puis divertissement, puis session de jeu. Cette séquence donne une dimension plus festive et complète à la sortie.\n\n<\/p>\n<br>\n<p>\nCôté hébergement, le complexe met surtout l’accent sur les jeux, le bar et les événements, tandis que l’hébergement se choisit à proximité selon le budget et le confort souhaité. Cela permet de profiter d’une soirée tardive sans contrainte et de dormir sur place si nécessaire. Pour un couple comme pour un groupe, cette liberté est un vrai plus.\n\n<\/p>\n<br>\n<p>\nAu final, le Casino Barrière Blotzheim propose un équilibre : le jeu ne prend pas toute la soirée, grâce aux pauses gourmandes et aux animations. L’expérience devient plus harmonieuse, plus “sortie”, et moins “session” pure. C’est précisément ce mélange qui attire un public large, des curieux aux habitués.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nListe des espaces de détente\n<\/h4>\n\n <ul>\n            <li>• \nBlotZ’Café (bar‑restaurant) — plats et cocktails, parfait pour les pauses.\n\n<\/li>\n            <li>• \nEspaces de pause — zones pour souffler entre deux sessions.\n\n<\/li>\n            <li>• \nEspaces shows\/événements — compléter la soirée par une programmation.\n\n<\/li>\n            <li>• \nHôtels à proximité (hors site) — solutions pour dormir après une visite tardive.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Peut‑on venir uniquement au bar‑restaurant sans jouer ?",
+                    "answer": "Le bar‑restaurant fonctionne souvent comme un espace accessible pour dîner ou boire un verre. Les conditions d’accès peuvent différer des salles de jeux, d’où l’intérêt de préciser votre intention à l’accueil.\n\n\n"
+                },
+                {
+                    "title": "Les photos sont‑elles autorisées au bar ?",
+                    "answer": "Les règles sont plus strictes en zones de jeu et plus souples au restaurant, mais il est recommandé d’éviter de filmer les autres clients ou le personnel sans accord. En cas de doute, demandez au staff.\n\n\n"
+                },
+                {
+                    "title": "Peut‑on venir avec des amis qui ne jouent pas ?",
+                    "answer": "Oui, l’expérience est souvent pensée pour les groupes : certains jouent, d’autres profitent du bar ou des shows. Il suffit de respecter les règles d’accès aux zones de jeu.\n\n\n"
+                },
+                {
+                    "title": "Que faire en cas de perte d’un ticket de machine ?",
+                    "answer": "Prévenez immédiatement un agent de salle ou l’accueil. Plus la déclaration est rapide, plus le traitement est simple selon les procédures de sécurité.\n\n\n"
+                },
+                {
+                    "title": "Comment se limiter si l’on veut réduire son jeu ?",
+                    "answer": "L’accueil peut informer sur les dispositifs de jeu responsable et d’auto‑limitation. C’est une démarche courante pour garder une expérience saine et maîtrisée.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1226",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Blotzheim "
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}
